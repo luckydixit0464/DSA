@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/luckydixit0464/90daysleetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/luckydixit0464/90daysleetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0189-rotate-array) |
+| [2652-sum-multiples](https://github.com/luckydixit0464/90daysleetcode/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |

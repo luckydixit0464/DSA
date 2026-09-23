@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/luckydixit0464/90daysleetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/luckydixit0464/90daysleetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -128,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/luckydixit0464/90daysleetcode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

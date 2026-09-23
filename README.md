@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/luckydixit0464/90daysleetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/luckydixit0464/90daysleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/luckydixit0464/90daysleetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/luckydixit0464/90daysleetcode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/luckydixit0464/90daysleetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/luckydixit0464/90daysleetcode/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |

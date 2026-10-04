@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -151,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

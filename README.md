@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/luckydixit0464/90daysleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luckydixit0464/90daysleetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
@@ -152,15 +153,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

@@ -8,7 +8,7 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        arr=[]*10
+        arr=[]
         cur=head
         while cur:
             arr.append(cur)

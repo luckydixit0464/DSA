@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/luckydixit0464/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/luckydixit0464/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

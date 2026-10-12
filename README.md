@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/luckydixit0464/90daysleetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/luckydixit0464/90daysleetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/luckydixit0464/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/luckydixit0464/90daysleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/luckydixit0464/90daysleetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/luckydixit0464/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/luckydixit0464/90daysleetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/luckydixit0464/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/luckydixit0464/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luckydixit0464/DSA/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/luckydixit0464/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

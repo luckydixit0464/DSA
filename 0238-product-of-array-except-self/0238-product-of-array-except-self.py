@@ -9,14 +9,23 @@ class Solution:
         #     ans.append(product)
         # return ans
         # optimised
+        # ans=[1]*len(nums)
+        # pre=[1]*len(nums)
+        # suf=[1]*len(nums)
+        # for i in range(1,len(nums)):
+        #     pre[i]=pre[i-1]*nums[i-1]
+        # suf[len(nums)-1]=1
+        # for i in range(len(nums)-2,-1,-1):
+        #     suf[i]=suf[i+1]*nums[i+1]    
+        # for i in range(len(nums)):
+        #     ans[i]=pre[i]*suf[i]
+        # return ans    
+        # next one
         ans=[1]*len(nums)
-        pre=[1]*len(nums)
-        suf=[1]*len(nums)
+        s=1
         for i in range(1,len(nums)):
-            pre[i]=pre[i-1]*nums[i-1]
-        suf[len(nums)-1]=1
-        for i in range(len(nums)-2,-1,-1):
-            suf[i]=suf[i+1]*nums[i+1]    
-        for i in range(len(nums)):
-            ans[i]=pre[i]*suf[i]
-        return ans    
+            ans[i]=ans[i-1]*nums[i-1]
+        for i in range(len(nums)-1,-1,-1):
+            ans[i]=ans[i]*s
+            s=s*nums[i]
+        return ans
